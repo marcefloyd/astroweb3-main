@@ -1,0 +1,251 @@
+/* RESET */
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+  background: radial-gradient(circle at center, #2a0000, #000000 70%);
+
+  scroll-behavior: smooth;
+}
+
+/* 🔥 FONDO */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+
+  background: radial-gradient(circle, rgba(255,0,0,0.08), transparent 70%);
+  filter: blur(100px);
+
+  animation: fuego 6s infinite ease-in-out;
+  z-index: 0;
+}
+
+@keyframes fuego {
+  0% { transform: scale(1); opacity: 0.4; }
+  50% { transform: scale(1.2); opacity: 0.7; }
+  100% { transform: scale(1); opacity: 0.4; }
+}
+
+/* 🔥 SLIDER */
+.slider {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  z-index: 1;
+}
+
+/* CONTENEDOR */
+.slides {
+  display: flex;
+  height: 100%;
+  transition: transform 0.5s ease;
+}
+
+/* ✅ NO TOCAMOS ESTO */
+.slide {
+  width: 100vw;
+  height: 100vh;
+  flex-shrink: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  opacity: 0.3;
+  transition: 0.4s;
+}
+
+.slide.active {
+  opacity: 1;
+}
+
+/* 🔥 SOLO AJUSTAMOS ESTO */
+.contenido {
+  max-width: 800px;
+  width: 90%;
+  padding: 20px 20px 40px;
+
+  position: relative;
+  z-index: 2;
+
+  transform: translateY(-40px); /* 🔥 SUBE TODO */
+}
+
+/* 🖼️ IMAGEN */
+.imagen {
+  width: 100%;
+  height: 200px;
+  margin-bottom: 20px;
+
+  border-radius: 12px;
+
+  background-size: cover;
+  background-position: center;
+
+  box-shadow: 0 0 25px rgba(255,0,0,0.4);
+
+  background-image: linear-gradient(135deg, #300000, #ff0000);
+}
+
+/* IMÁGENES */
+.slide:nth-child(1) .imagen { background-image: url("../img/aries1.jpg"); }
+.slide:nth-child(2) .imagen { background-image: url("../img/aries2.jpg"); }
+.slide:nth-child(3) .imagen { background-image: url("../img/aries3.jpg"); }
+.slide:nth-child(4) .imagen { background-image: url("../img/aries4.jpg"); }
+
+/* SIMBOLO */
+.simbolo {
+  font-size: 120px;
+  color: #ff2a2a;
+  margin-bottom: 20px;
+
+  text-shadow:
+    0 0 10px #ff0000,
+    0 0 30px #ff0000;
+
+  animation: golpear 1.2s infinite;
+}
+
+@keyframes golpear {
+  0%,100% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+}
+
+/* TEXTO */
+h1 {
+  font-size: 42px;
+  margin: 20px 0;
+}
+
+p {
+  font-size: 18px;
+  line-height: 1.7;
+  color: #ffcccc;
+  margin-bottom: 18px;
+}
+
+/* 🔥 CONTROLES */
+.controles {
+  position: fixed;
+  bottom: 25px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  z-index: 10;
+}
+
+.controles button {
+  background: rgba(0,0,0,0.6);
+  border: 1px solid #ff2a2a;
+  color: #ff2a2a;
+
+  padding: 12px 22px;
+  font-size: 18px;
+
+  border-radius: 8px;
+  cursor: pointer;
+
+  transition: 0.3s;
+  backdrop-filter: blur(5px);
+}
+
+.controles button:hover {
+  background: #ff2a2a;
+  color: black;
+
+  box-shadow:
+    0 0 10px #ff0000,
+    0 0 25px #ff0000;
+}
+
+/* 🔙 VOLVER */
+.volver {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+
+  border: 1px solid #ff2a2a;
+  padding: 10px 20px;
+  color: #ff2a2a;
+  text-decoration: none;
+
+  background: rgba(0,0,0,0.5);
+  border-radius: 6px;
+  transition: 0.3s;
+}
+
+.volver:hover {
+  background: #ff2a2a;
+  color: black;
+}
+
+/* 📱 MOBILE */
+@media (max-width: 768px) {
+
+  .slider {
+    height: auto;
+  }
+
+  .slide {
+    height: auto;
+    padding: 60px 0;
+  }
+
+  .contenido {
+    transform: translateY(-20px); /* 🔥 más suave en celu */
+    padding: 20px 15px;
+  }
+
+  .imagen {
+    height: 160px;
+  }
+
+  .simbolo {
+    font-size: 70px;
+  }
+
+  h1 {
+    font-size: 26px;
+  }
+
+  p {
+    font-size: 15px;
+  }
+
+  .controles {
+    bottom: 15px;
+    gap: 15px;
+  }
+
+  .controles button {
+    padding: 10px 16px;
+    font-size: 16px;
+  }
+}
+.contenido {
+  max-height: 80vh;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+.contenido p {
+  word-wrap: break-word;
+}
+.contenido {
+  max-height: 80vh;
+  overflow-y: auto;
+  overflow-x: hidden;
+  padding-right: 10px;
+}
+.contenido {
+  width: 100%;
+  box-sizing: border-box;
+}
+

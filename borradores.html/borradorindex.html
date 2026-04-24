@@ -1,0 +1,351 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rueda Zodiacal</title>
+
+  <link rel="icon" href="assets/zodiaco.png">
+
+  <link rel="stylesheet" href="/css/gradosenplanetas.css">
+  <link rel="stylesheet" href="/css/elementos.css">
+  
+  
+</head>
+
+<body>
+
+  <!-- 🌌 CANVAS -->
+  <canvas id="estrellas"></canvas>
+
+  <!-- 🎥 VIDEO -->
+  <video autoplay muted loop id="fondo-video">
+    <source src="assets/sky.mp4" type="video/mp4">
+  </video>
+
+  <!-- 🔝 NAVBAR -->
+  <header class="navbar">
+    <h1 class="logo">VIBRANDO ACUARIO</h1>
+
+    <div class="menu-toggle" id="menu-toggle">
+  ☰
+</div>
+
+<nav class="menu" id="menu">
+  <div class="menu-contenido">
+
+    <!-- 🔮 SIGNOS -->
+    <h3>Signos</h3>
+
+    <!-- 🔥 ARIES -->
+    <div class="menu-item">
+  <div class="menu-titulo">
+    <a href="../pages/signos/aries.html">Aries ♈︎</a><span class="flecha">▼</span>
+  </div>
+
+  <ul class="submenu">
+    <li><a href="../pages/signos/aries.html">Ver Aries</a></li>
+    <li><a href="../pages/grados/grado22aries.html">Grado 22°</a></li>
+    <li><a href="../pages/grados/grado23aries.html">Grado 23°</a></li>
+    <li><a href="../pages/grados/grado24aries.html">Grado 24°</a></li>
+    <li><a href="../pages/grados/grado25aries.html">Grado 25°</a></li>
+    <li><a href="../pages/grados/grado26aries.html">Grado 26°</a></li>
+    <li><a href="../pages/grados/grado27aries.html">Grado 27°</a></li>
+    <li><a href="../pages/grados/grado28aries.html">Grado 28°</a></li>
+    <li><a href="../pages/grados/grado29aries.html">Grado 29°</a></li>
+    <li><a href="../pages/grados/grado30aries.html">Grado 30°</a></li>
+
+  </ul>
+    </div>
+    
+    <!-- 🌱 TAURO -->
+    <div class="menu-item">
+      <div class="menu-titulo">
+      <a href="../pages/signos/tauro.html">Tauro ♉︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/tauro.html">Ver Tauro</a></li>
+      </ul>
+    </div>
+
+    <!-- 🌬 GÉMINIS -->
+    <div class="menu-item">
+      <a href="../pages/signos/geminis.html" class="btn-signo">Géminis ♊︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/geminis.html">Ver Géminis</a></li>
+      </ul>
+    </div>
+
+    <!-- 🌊 CÁNCER -->
+    <div class="menu-item">
+      <a href="../pages/signos/cancer.html" class="btn-signo">Cáncer ♋︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/cancer.html">Ver Cáncer</a></li>
+      </ul>
+    </div>
+
+    <!-- 🔥 LEO -->
+    <div class="menu-item">
+      <a href="../pages/signos/leo.html" class="btn-signo">Leo ♌︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/leo.html">Ver Leo</a></li>
+      </ul>
+    </div>
+
+    <!-- 🌱 VIRGO -->
+    <div class="menu-item">
+      <a href="../pages/signos/virgo.html" class="btn-signo">Virgo ♍︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/virgo.html">Ver Virgo</a></li>
+      </ul>
+    </div>
+
+    <!-- ⚖ LIBRA -->
+    <div class="menu-item">
+      <a href="../pages/signos/libra.html" class="btn-signo">Libra ♎︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/libra.html">Ver Libra</a></li>
+      </ul>
+    </div>
+
+    <!-- 🦂 ESCORPIO -->
+    <div class="menu-item">
+      <a href="../pages/signos/escorpio.html" class="btn-signo">Escorpio ♏︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/escorpio.html">Ver Escorpio</a></li>
+      </ul>
+    </div>
+
+    <!-- 🏹 SAGITARIO -->
+    <div class="menu-item">
+      <a href="../pages/signos/sagitario.html" class="btn-signo">Sagitario ♐︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/sagitario.html">Ver Sagitario</a></li>
+      </ul>
+    </div>
+
+    <!-- 🐐 CAPRICORNIO -->
+    <div class="menu-item">
+      <a href="../pages/signos/capricornio.html" class="btn-signo">Capricornio ♑︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/capricornio.html">Ver Capricornio</a></li>
+      </ul>
+    </div>
+
+    <!-- 🌊 ACUARIO -->
+    <div class="menu-item">
+      <a href="../pages/signos/acuario.html" class="btn-signo">Acuario ♒︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/acuario.html">Ver Acuario</a></li>
+      </ul>
+    </div>
+
+    <!-- 🐟 PISCIS -->
+    <div class="menu-item">
+      <a href="../pages/signos/piscis.html" class="btn-signo">Piscis ♓︎ </a><span class="flecha">▼</span>
+      </div>
+      <ul class="submenu">
+        <li><a href="../pages/signos/piscis.html">Ver Piscis</a></li>
+      </ul>
+    </div>
+
+    <!-- 🪐 PLANETAS -->
+    <h3>Planetas</h3>
+    <a href="../pages/planetas/sol.html">Sol</a>
+    <a href="../pages/planetas/luna.html">Luna</a>
+    <a href="../pages/planetas/mercurio.html">Mercurio</a>
+    <a href="../pages/planetas/venus.html">Venus</a>
+    <a href="../pages/planetas/marte.html">Marte</a>
+    <a href="../pages/planetas/jupiter.html">Júpiter</a>
+    <a href="../pages/planetas/saturno.html">Saturno</a>
+    <a href="../pages/planetas/urano.html">Urano</a>
+    <a href="../pages/planetas/neptuno.html">Neptuno</a>
+    <a href="../pages/planetas/pluton.html">Plutón</a>
+
+  </div>
+</nav>
+  </header>
+
+  <!-- 🔥 CONTENEDOR PRINCIPAL -->
+  <div class="contenedor">
+
+    <!-- 🌌 SECCIÓN RUEDA -->
+    <section class="seccion-rueda">
+
+      <!-- SIGNOS -->
+      <div class="rueda-signos">
+
+        <div class="item aries"><a href="/pages/signos/aries.html" class="signo"><span class="icono">♈︎</span></a></div>
+        <div class="item tauro"><a href="/pages/signos/tauro.html" class="signo"><span class="icono">♉︎</span></a></div>
+        <div class="item geminis"><a href="/pages/signos/geminis.html" class="signo"><span class="icono">♊︎</span></a></div>
+        <div class="item cancer"><a href="/pages/signos/cancer.html" class="signo"><span class="icono">♋︎</span></a></div>
+        <div class="item leo"><a href="/pages/signos/leo.html" class="signo"><span class="icono">♌︎</span></a></div>
+        <div class="item virgo"><a href="/pages/signos/virgo.html" class="signo"><span class="icono">♍︎</span></a></div>
+        <div class="item libra"><a href="/pages/signos/libra.html" class="signo"><span class="icono">♎︎ </span></a></div>
+        <div class="item escorpio"><a href="/pages/signos/escorpio.html" class="signo"><span class="icono">♏︎</span></a></div>
+        <div class="item sagitario"><a href="/pages/signos/sagitario.html" class="signo"><span class="icono">♐︎</span></a></div>
+        <div class="item capricornio"><a href="/pages/signos/capricornio.html" class="signo"><span class="icono">♑︎</span></a></div>
+        <div class="item acuario"><a href="/pages/signos/acuario.html" class="signo"><span class="icono">♒︎</span></a></div>
+        <div class="item piscis"><a href="/pages/signos/piscis.html" class="signo"><span class="icono">♓︎</span></a></div>
+
+      </div>
+
+      <!-- PLANETAS -->
+      <div class="rueda-planetas">
+
+        <a href="/pages/planetas/sol.html" class="planeta sol"><span class="icono-planeta">☉</span></a>
+        <a href="/pages/planetas/luna.html" class="planeta luna"><span class="icono-planeta">☽</span></a>
+        <a href="/pages/planetas/mercurio.html" class="planeta mercurio"><span class="icono-planeta">☿</span></a>
+        <a href="/pages/planetas/venus.html" class="planeta venus"><span class="icono-planeta">♀</span></a>
+        <a href="/pages/planetas/marte.html" class="planeta marte"><span class="icono-planeta">♂</span></a>
+        <a href="/pages/planetas/jupiter.html" class="planeta jupiter"><span class="icono-planeta">♃</span></a>
+        <a href="/pages/planetas/saturno.html" class="planeta saturno"><span class="icono-planeta">♄</span></a>
+        <a href="/pages/planetas/urano.html" class="planeta urano"><span class="icono-planeta">♅</span></a>
+        <a href="/pages/planetas/neptuno.html" class="planeta neptuno"><span class="icono-planeta">♆</span></a>
+        <a href="/pages/planetas/pluton.html" class="planeta pluton"><span class="icono-planeta">♇</span></a>
+        <a href="/pages/planetas/quiron.html" class="planeta quiron"><span class="icono-planeta">⚷</span></a>
+        <a href="/pages/planetas/nodonorte.html" class="planeta nodo"><span class="icono-planeta">☊</span></a>
+        <a href="/pages/planetas/lilith.html" class="planeta lilith"><span class="icono-planeta">⚸</span></a>
+
+      </div>
+
+    </section>
+
+  </div>
+
+  <!-- 🔥 boton grado  -->
+<section class="seccion-contenido">
+
+  <div class="cta-grado">
+
+    <h2>🔥 Portal activo</h2>
+
+    <p>
+      Ya podés explorar el primer grado disponible del zodiaco.<br>
+      Entrá y empezá a descubrir tu energía.
+    </p>
+
+    <a href="/pages/grados/grado27aries.html" class="btn-grado">
+      ♈︎ Ver grado 27 de Aries
+    </a>
+
+    <!-- 🔥 CAMBIO CLAVE -->
+    <h2 id="grado27">Aries 27</h2><select id="signo">
+  <option value="aries">Aries</option>
+  <option value="tauro">Tauro</option>
+</select>
+
+<select id="grado">
+  <option value="25">25</option>
+  <option value="26">26</option>
+  <option value="27">27</option>
+</select>
+
+    <button onclick="generarInterpretacion()">
+      Generar interpretación
+    </button>
+
+    <div id="resultadoIA"></div>
+
+  </div>
+
+</section>
+
+<section class="famosos-grado">
+  <h2>Famosos Aries</h2>
+
+  <div class="carrusel">
+    <div class="carrusel-track">
+
+      <div class="famoso">
+        <img src="../assets/adrien.jpg" alt="Adrien Brody">
+        <p>Adrien Brody</p>
+      </div>
+
+      <div class="famoso">
+        <img src="../assets/sadie.jpg" alt="Sadie Sink">
+        <p>Sadie Sink</p>
+      </div>
+
+      <div class="famoso">
+        <img src="../assets/ibai.jpg" alt="Ibai Llanos">
+        <p>Ibai Llanos</p>
+      </div>
+
+      <div class="famoso">
+        <img src="../assets/juana-viale.jpg" alt="Juana Viale ">
+        <p>Juana Viale </p>
+      </div>
+
+      <div class="famoso">
+        <img src="../assets/carmen.jpg" alt="Carmen Barbieri">
+        <p>Carmen Barbieri</p>
+      </div>
+
+      <div class="famoso">
+        <img src="../assets/emma.jpg" alt="Emma Watson">
+        <p>Emma Watson</p>
+      </div>
+
+      <div class="famoso">
+        <img src="../assets/robert.jpg" alt="Robert Downey Jr">
+        <p>Robert Downey Jr.</p>
+      </div>
+
+      <div class="famoso">
+        <img src="../assets/tini.jpg" alt="Tini Stoessel">
+        <p>Tini Stoessel</p>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<!-- 🔥 FOOTER -->
+<footer class="footer">
+  <div class="footer-contenido">
+
+    <h2 class="footer-logo">Vibrando Acuario</h2>
+
+    <p class="footer-texto">
+      Explorando los grados del zodiaco y el lenguaje simbólico del cosmos.
+    </p>
+
+    <div class="footer-links">
+      <a href="#">Inicio</a>
+      <a href="#">Horóscopo</a>
+      <a href="#">Contacto</a>
+    </div>
+
+    <p class="footer-copy">
+      © 2026 Vibrando Acuario
+    </p>
+
+  </div>
+</footer>
+
+<!-- 🔥 BOTÓN IA (BIEN UBICADO) -->
+<div class="ia-box">
+  <button onclick="generarInterpretacion()">
+    Generar interpretación
+  </button>
+
+  
+</div>
+
+<!-- JS -->
+<script src="/js/script.js"></script>
+<script src="/js/grados.js"></script>
+<script src="/js/ia.js"></script>
+
+</body>
+</html>

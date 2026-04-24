@@ -1,0 +1,205 @@
+/* 💖 FONDO */
+body {
+  margin: 0;
+  font-family: sans-serif;
+  color: white;
+  text-align: center;
+
+  background: radial-gradient(circle at center, #2a001a, #000000 70%);
+}
+
+/* ✨ AURA VENUS */
+body::before {
+  content: "";
+  position: fixed;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+  width: 300px;
+  height: 300px;
+
+  background: radial-gradient(circle, rgba(255,105,180,0.3), transparent 70%);
+  filter: blur(60px);
+
+  animation: auraVenus 6s infinite ease-in-out;
+  z-index: 0;
+}
+
+@keyframes auraVenus {
+  0% { transform: translate(-50%, -50%) scale(1); }
+  50% { transform: translate(-50%, -50%) scale(1.15); }
+  100% { transform: translate(-50%, -50%) scale(1); }
+}
+
+/* 🔥 SLIDER */
+.slider {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  z-index: 1;
+}
+
+.slide {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+
+  opacity: 0;
+  transform: translateX(100%);
+  transition: all 0.6s ease;
+
+  /* 🔥 SOLUCIÓN */
+  overflow-y: auto;
+  padding-right: 10px;
+}
+.slide::-webkit-scrollbar {
+  width: 6px;
+}
+
+.slide::-webkit-scrollbar-thumb {
+  background: #00ffff; /* ⚡ Mercurio */
+  border-radius: 10px;
+}
+
+.slide.active {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* CONTENIDO */
+.contenido {
+  position: relative;
+  z-index: 2;
+
+  max-width: 800px;
+  margin: auto;
+  padding: 100px 20px 120px;
+}
+
+/* 💖 SIMBOLO */
+.simbolo {
+  font-size: 130px;
+  color: #ff69b4;
+
+  animation: flotar 5s infinite ease-in-out;
+
+  text-shadow:
+    0 0 10px #ff69b4,
+    0 0 30px #ff69b4,
+    0 0 60px #ff1493,
+    0 0 100px #ff69b4;
+}
+
+/* 🌸 FLOTAR */
+@keyframes flotar {
+  0%   { transform: translateY(0); }
+  50%  { transform: translateY(-12px); }
+  100% { transform: translateY(0); }
+}
+
+/* TITULO */
+h1 {
+  font-size: 46px;
+  margin: 20px 0;
+}
+
+/* TEXTO */
+p {
+  font-size: 18px;
+  line-height: 1.8;
+  color: #ffd1e6;
+}
+
+/* 🔙 BOTON FIJO */
+.volver {
+  position: fixed;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+
+  padding: 12px 25px;
+
+  border: 1px solid #ff69b4;
+  color: #ff69b4;
+  text-decoration: none;
+
+  transition: 0.3s;
+  z-index: 1000;
+}
+
+.volver:hover {
+  background: #ff69b4;
+  color: black;
+  box-shadow: 0 0 25px #ff69b4;
+}
+
+/* 🔥 FLECHAS */
+.controles button {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+
+  background: transparent;
+  border: 1px solid #ff69b4;
+  color: #ff69b4;
+
+  font-size: 30px;
+  padding: 10px 15px;
+  cursor: pointer;
+
+  z-index: 1000;
+  transition: 0.3s;
+}
+
+#prev { left: 20px; }
+#next { right: 20px; }
+
+.controles button:hover {
+  background: #ff69b4;
+  color: black;
+  box-shadow: 0 0 25px #ff69b4;
+  transform: translateY(-50%) scale(1.1);
+}
+
+/* 📱 MOBILE */
+@media (max-width: 768px) {
+
+  body {
+    overflow-y: auto;
+  }
+
+  .slider {
+    height: auto;
+  }
+
+  .slide {
+    position: relative;
+    opacity: 1;
+    transform: none;
+  }
+
+  .contenido {
+    padding: 80px 15px 100px;
+  }
+
+  .simbolo {
+    font-size: 85px;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+
+  p {
+    font-size: 16px;
+  }
+
+  /* 🚫 sin flechas */
+  .controles {
+    display: none;
+  }
+}
