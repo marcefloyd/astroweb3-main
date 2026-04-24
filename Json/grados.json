@@ -1628,199 +1628,213 @@
     "Janduz": "Cierra brutal: superficial, materialista, perezoso. Felicidad en necesidades físicas pero autocomplacencia trae problemas. Advierte pérdidas financieras por romances simultáneos o bigamia. Posibilidad de casarse con hermano del cónyuge. Es la advertencia final sobre el deseo descontrolado."
   },
   "analisis_final": "El Grado 9° es la prueba del deseo taurino: Sepharial lo condena por grossmess e indolencia, Carelli muestra la mente brillante embotada por sensualismo. Es el buey que tiene fuerza para arar pero prefiere dormir mientras lo devoran. Charubel advierte muerte prematura si no despierta. Kozminsky salva con clarividencia y alma gemela, pero Leinbach hunde en servidumbre sin gratitud. Para tu web es el grado del 'genio perezoso' y 'doble vida': matemáticos, clarividentes, oradores que caen por gula, dobles romances o ingenuidad. El backend debe triggear alertas en 'riesgos' de bigamia y alcoholismo. El mensaje es despertar: usá tu mente abstracta y clarividencia, no te duermas al sol o las sirenas te comerán."
-},{
-  "id": "tauro_10",
+}, {
+  "id": "tauro-10",
   "signo": "Tauro",
   "grado": 10,
-  "titulo": "Autoservicio y el Rey en el Trono",
-  "resumen": "Grado de ambición, astucia y vigilancia para ascender social y materialmente. Promete riqueza y fama tanto para rico como pobre, pero por autoservicio más que integridad. Oscila entre caridad religiosa que libera y codicia tacaña que aisla. Exceso sensual, múltiples matrimonios y decepciones por falta de juicio.",
+  "titulo": "Autoservicio",
+  "resumen": "Grado de ambición material y ascenso social. Potencial de riqueza y fama si se nace pobre, o de eminencia si se nace rico. La clave es la astucia y vigilancia más que la integridad. Dualidad moral: puede ser generoso liberador o arribista codicioso. El libre albedrío define si se usa para servir o servirse.",
   "palabras_clave": [
     "Autoservicio",
     "Ambición",
-    "Astucia",
-    "Vigilancia",
-    "Ascenso social",
     "Riqueza",
     "Fama",
+    "Astucia",
+    "Vigilancia",
+    "Ascenso",
     "Codicia",
-    "Tacañería",
     "Caridad",
-    "Liberación",
-    "Sensualidad",
-    "Exceso",
-    "Decepción",
-    "Sexualidad",
-    "Bohemio",
-    "Ocultismo",
-    "Atlántida",
-    "Neurastenia"
+    "Liberación"
   ],
   "simbolos_clave": [
-    "Hombre coronado en trono con cetro y símbolos de riqueza",
+    "Hombre coronado en trono con cetro y riquezas",
+    "Monje dando pan y agua a viajero caído",
     "Garabato o adorno de pluma",
-    "Monje dando bebida y comida a viajero caído, ancla irradiada sobre su cabeza",
-    "Cuervo posado en candelabro observando con envidia al hombre rico"
+    "Cuervo observando las riquezas con envidia"
   ],
   "interpretacion": {
-    "general": "Grado de ascenso por vigilancia y astucia, no por integridad. Si nace rico, alcanza eminencia por diligencia; si nace pobre, adquiere riqueza y fama igual. La característica central es autoservicio y vigilancia. Promete éxito pero con riesgo de vender la piel del oso antes de cazarlo: anticipar lo irrealizable. Da sensualidad máxima en Tauro, con excesos que llevan a más de un matrimonio. Produce artistas bohemios apasionados y generosos, o codiciosos tacaños odiados por su avaricia.",
-    "psicologica": "Ansia de escalar sin límites. El éxito depende de poder ejecutar planes ambiciosos sin caer en errores por entusiasmo. Dualidad moral: tacaño o generoso, caballero justo o arribista intrigante. Modestia y autodisolución le son ajenas. Falta de juicio lleva a decepciones por no adaptarse a condiciones. Incapaz de realizar lo que anticipa. Susceptible a adulación pero ayuda al vecino. Astucia, codicia y tacañería si nace rico; si nace pobre, obtiene riqueza por astucia pero es odiado.",
-    "espiritual": "Kozminsky lo eleva a 'Liberación': naturaleza religiosa y caritativa, hermandad del hombre, compartir sustento con menos afortunados a cambio de bendiciones. Confianza inquebrantable en humanidad, heraldo de esperanza. Henson: atraído por sabiduría antigua, ocultismo, sensación de vidas en Atlántida. Recto con principios pero sin compasión por debilidades humanas. Grado de sexualidad que da imaginación y originalidad."
+    "general": "Sepharial lo define como grado de AUTOSERVICIO: el nativo alcanza posición por astucia y vigilancia, no por integridad. Carelli confirma la dualidad: puede ascender pero 'vender la piel del oso antes de cazarlo'. Depende de si evita errores por entusiasmo. Janduz es crudo: astuto, codicioso, tacaño. Odia por su codicia. Si nace rico, incrementa fortuna explotando materias primas. Si nace pobre, alcanza riqueza por astucia. Kozminsky da la polaridad opuesta: monje caritativo, símbolo de Liberación, que comparte por hermandad humana. Es un grado de encrucijada moral.",
+    "psicologica": "Charubel: falta de juicio, incapaz de adaptarse, decepciones por anticipar lo irrealizable. Ansia de escalar que puede volverse obsesión. Henson: bohemio, artístico, apasionado, generoso, pero con falta de compasión y simpatía. Cree haber vivido en Atlántida. Neurastenia, nervios del cuello. Weber: observador, ahorrativo, eficiente, clarividente. Subestima o abandona antes de culminar, incluso en romance. Cree en 'yo contra el mundo'. Conflicto: tacañería vs generosidad, vigilancia vs paranoia.",
+    "espiritual": "Kozminsky eleva el grado: comprensión de la hermandad humana y unidad de fines. Heraldo de esperanza. Confianza inquebrantable en la humanidad. Es símbolo de Liberación cuando elige servir. Sepharial y Janduz muestran la sombra: autoservicio kármico. Carelli: salvo modestia y autodisolución, todas las vías están abiertas. El libre albedrío decide si será caballero justo o arribista. Lección: la riqueza es prueba, no destino."
   },
   "polaridad": {
-    "luz": "Ascenso por diligencia y vigilancia. Riqueza y fama ganadas con trabajo. Caridad religiosa, hermandad, compartir con necesitados. Alta comprensión de unidad humana. Artista bohemio apasionado y generoso. Astrología, ocultismo, sabiduría antigua. Imaginación, originalidad, sexualidad creativa. Gran comprensión de necesidades humanas. Ayuda al vecino.",
-    "sombra": "Autoservicio, astucia sin integridad. Codicia, tacañería, odiado por avaricia. Vender piel del oso antes de cazarlo: anticipar irrealizable. Decepciones por falta de juicio. Sensualidad máxima lleva a excesos y múltiples matrimonios. Indulgencia nublando mente aguda. Arribista intrigante. Neurastenia."
+    "luz": "Caridad activa. Hermandad. Generosidad que libera. Astucia al servicio del bien común. Capacidad de ascender y elevar a otros. Heraldo de esperanza. Eficiencia y amabilidad. Artista bohemio con corazón.",
+    "sombra": "Codicia, tacañería, astucia sin ética. Autoservicio desmedido. Vender ilusiones. Decepción por falta de juicio. Falta de compasión. Arribismo. Odio por avaricia. Abandono de proyectos antes de culminar."
   },
-  "dinamica_profunda": "El Rey en el Trono vs. el Monje con el Ancla. El grado da poder material y social pero prueba si se usa con astucia egoísta o caridad liberadora. El cuervo envidioso muestra que la riqueza atrae odio si hay tacañería. El garabato de Charubel marca la falla: anticipar lo que no se puede realizar por falta de juicio. La tensión es entre ascender sirviéndose a sí mismo, o ascender para servir como el monje. La sensualidad taurina aquí llega al pico y debe ser controlada por la mente o nubla todo.",
-  "mensaje_evolutivo": "Podés ascender y tenerlo todo: riqueza, fama, trono. La pregunta es cómo y para qué. La vigilancia te da éxito, pero sin integridad te volvés el rey odiado por codicia. Tu mente aguda se nubla con autoindulgencia: usala para controlar pasiones, no al revés. La caridad libera; la tacañería encadena. Si escalás, que sea para ser heraldo de esperanza, no cuervo envidioso. Tu sexualidad es creativa si no te devora.",
-  "simbolismo": "Trono y cetro = poder material logrado, autoservicio. Corona = eminencia pero por astucia. Riqueza alrededor = tentación de codicia. Garabato = planes sin sustancia, anticipación irreal. Monje con ancla = caridad que estabiliza, liberación por servicio. Cuervo = envidia que genera el codicioso, sombra del éxito. Buey vs. trono = de animal de trabajo a rey: evolución taurina.",
-  "energia": "Tierra fija en su expresión más ambiciosa y sensual. Venus + Marte: placer y conquista. Energía de autoservicio vigilante. Sensualidad al máximo. Neurastenia como desgaste nervioso. Nervios del cuello con médula espinal. Ocultismo y Atlántida como polo alto.",
-  "emocion": "Deseo de escalar sin límites. Ambición o envidia. Pasión bohemia y generosidad artística. Susceptible a adulación. Necesita pareja/estímulo social. Múltiples matrimonios por exceso sensual. Odio ajeno si hay codicia.",
-  "mente": "Buenas habilidades mentales con énfasis matemático. Aguda pero riesgo de nublada por autoindulgencia. Debe usar mente para controlar pasiones. Falta de juicio lleva a decepciones. Imaginación y originalidad por sexualidad. Atraído por sabiduría antigua.",
-  "relaciones": "Más de un matrimonio por excesos sensuales. Necesita pareja o estímulo social cercano. Ayuda al vecino con gran comprensión humana. Susceptible a adulación: cuidado con quien lo rodea. Si es codicioso, genera odio. Alma gemela vs. explotación.",
-  "cuerpo_manifestacion": "Sensualidad máxima que lleva a excesos. Neurastenia. Nervios del cuello. Sexualidad como motor creativo o destructivo. Riesgo de que autoindulgencia nuble salud mental. Ocultismo y Atlántida en memoria celular.",
+  "dinamica_profunda": "Tauro fijo en grado 10 Saturno/Capricornio: la materia quiere corona. El trono de Sepharial/Janduz vs el monje de Kozminsky son las dos caras. Charubel con el garabato muestra la mente que anticipa sin base. Es el punto donde el deseo taurino de seguridad se vuelve ambición de estatus. Carelli: la voluntad libre decide. No hay fatalidad. La vigilancia puede ser sabiduría o paranoia. El grado te da poder material: vos elegís si es trono-prisión o trono-servicio.",
+  "mensaje_evolutivo": "La riqueza que no circula, envenena. Tu astucia es don si la usás para incluir, no para acaparar. Podés ascender sin pisar. La verdadera corona no es la que te ponés, es la que otros te reconocen por tu servicio. Elegí: ¿monje o cuervo? Ambos ven la riqueza. Solo uno la libera.",
+  "simbolismo": "Trono + cetro + corona = poder material alcanzado, arquetipo Rey de Pentáculos. Cuervo = sombra, envidia, vigilancia codiciosa. Monje + viajero + ancla = caridad, sostén al caído, fe como ancla. Garabato = planes sin sustento, ilusión. El grado oscila entre trono y camino pedregoso.",
+  "energia": "Saturnina-taurina. Densa, ambiciosa, materializante. Kozminsky: Liberación. Sepharial: Autoservicio. Energía de construcción de imperio, para bien o mal. Persistencia Capricornio aplicada a recursos Tauro.",
+  "emocion": "Henson: apasionado pero sin compasión. Carelli: entusiasmo que lleva a error. Weber: 'yo contra el mundo' a medida que avanza la vida. Muir: susceptible a la adulación. Emoción base: deseo de reconocimiento y seguridad material. Miedo a perder.",
+  "mente": "Charubel: falta de juicio, no se adapta. Leinbach: buenas habilidades matemáticas, riesgo de autoindulgencia. Weber: observador, clarividente. Henson: atraído por sabiduría antigua, ocultismo, Atlántida. Mente astuta, pero puede engañarse sola anticipando éxitos.",
+  "relaciones": "Weber: matrimonio afortunado pero riesgo de abandonar antes de culminar. Leinbach: excesos llevan a más de un matrimonio. Necesita pareja que frene autoindulgencia. Muir: ayuda al vecino, comprende necesidades humanas. Sombra: usa relaciones para escalar. Luz: pareja como compañera de servicio.",
+  "cuerpo_manifestacion": "Henson: neurastenia, nervios del cuello conectando con médula espinal. Tensión por vigilancia constante. Cuello/taurus somatiza codicia y miedo a perder. Janduz: mirada del cuervo = vigilancia tensa. Kozminsky: dar de comer/beber = garganta, nutrición.",
   "roles_afines": [
-    "Rey/CEO",
-    "Empresario astuto",
-    "Terrateniente",
-    "Minero/Materias primas",
+    "Empresario",
+    "Banquero",
+    "Filántropo",
+    "Monje",
+    "Minero/explotador de recursos",
     "Artista bohemio",
     "Astrólogo",
     "Ocultista",
-    "Joyerro",
-    "Monje caritativo",
-    "Filántropo",
-    "Arribista",
-    "Tacaño"
+    "Cantante/bailarín",
+    "Gestor de imagen pública"
   ],
   "exageraciones": [
-    "Codicia y tacañería extrema",
-    "Vender piel del oso antes de cazarlo",
-    "Sensualidad que lleva a múltiples matrimonios",
-    "Autoindulgencia que nubla mente",
-    "Anticipar irrealizable por falta de juicio",
-    "Astucia sin integridad"
+    "Codicia crónica",
+    "Avaricia",
+    "Arribismo sin escrúpulos",
+    "Vender humo",
+    "Autoengaño por entusiasmo",
+    "Falta de compasión intelectualizada",
+    "Síndrome de Atlántida: superioridad espiritual"
   ],
   "riesgos": [
-    "Decepciones por falta de juicio",
-    "Odio ajeno por codicia",
-    "Pérdidas por anticipar irrealizable",
-    "Neurastenia",
-    "Excesos sensuales destructivos",
-    "Ser arribista intrigante",
-    "Mente nublada por autoindulgencia",
-    "Ser tacaño pese a riqueza"
+    "Ser odiado por codicia",
+    "Ruina por vender la piel antes de cazar el oso",
+    "Decepciones por mal juicio",
+    "Abandonar proyectos exitosos por impaciencia",
+    "Aislamiento por falta de empatía",
+    "Enfermedades nerviosas por tensión",
+    "Karma de explotación"
   ],
-  "potencial": "Ascenso social y material garantizado si hay diligencia. Riqueza y fama para rico y pobre. Caridad que libera y da esperanza. Sabiduría antigua, astrología, ocultismo. Imaginación y originalidad por sexualidad sublimada. Comprensión profunda de necesidades humanas. Maestro de materias primas.",
-  "autores": {
-    "Sepharial": "Lo nombra 'AUTOSERVICIO' y da la clave: ascenso por vigilancia y astucia, no integridad. Rico o pobre llega a eminencia. Es la base materialista del grado: el trono se gana sirviéndose a sí mismo, no por virtud.",
-    "Carelli": "Plantea la disyuntiva moral: ¿tacaño o generoso, caballero justo o arribista intrigante? El grado abre ambos caminos. Vender piel del oso antes de cazarlo es su advertencia: anticipación irreal. Ansia de escalar define al nativo, el resto de la carta decide cómo.",
-    "Charubel": "Lo reduce a garabato: decepciones por falta de juicio. Incapaz de adaptarse a condiciones, anticipa lo irrealizable. Es la sentencia más dura: sin juicio, el trono es dibujo. Muestra el fracaso potencial del grado.",
-    "Henson": "Agrega el polo bohemio-oculto: artista despreocupado, apasionado, generoso. Sexualidad que da imaginación y originalidad. Atraído por sabiduría antigua y Atlántida. Recto pero sin compasión. Neurastenia como riesgo. Conecta con astrología y joyería.",
-    "Kozminsky": "Lo eleva a 'Liberación' con el monje y el ancla: caridad religiosa, hermandad humana, compartir sustento por bendiciones. Confianza inquebrantable en humanidad. Heraldo de esperanza. Es la redención del grado: el rey que sirve libera.",
-    "Leinbach": "Confirma sensualidad en pico: excesos que dan múltiples matrimonios. Mente aguda nublada por autoindulgencia. Necesita compañero y educación liberal para disciplinarse. Amigo comprensivo ayuda. Es el diagnóstico de por qué el genio se pierde: placer.",
-    "Matthew": "Lo resume en 'DESPREOCUPADO': artista bohemio apasionado y generoso. Sexualidad con imaginación. Es la versión luminosa de Henson, sin la sombra neurasténica.",
-    "Weber": "Aporta el grado Cáncer de Tauro: observador, ahorrativo, eficiente, clarividente. Nace en familia adinerada. Gana riqueza/fama pero no mantiene estatus, abandona antes de culminar. Vocaciones de expresión personal: canto, baile, cuidado. Debe confiar y ser justo.",
-    "Muir": "Sintetiza práctica: siempre ayuda al vecino con gran comprensión humana, pero susceptible a adulación. Es la advertencia social: el rey caritativo debe cuidarse de aduladores.",
-    "Janduz": "Cierra con el rey codicioso y el cuervo envidioso: astuto, codicioso, tacaño. Rico se enriquece más con trabajo en materias primas; pobre obtiene riqueza/fama por astucia. En ambos casos es odiado por codicia. Es la sombra final si no se elige la vía Kozminsky."
-  },
-  "analisis_final": "El Grado 10° es la cumbre material de Tauro: el trono. Sepharial y Janduz muestran el camino del autoservicio astuto que da riqueza pero genera odio. Kozminsky ofrece la redención: el monje caritativo que libera. Entre ambos, Carelli pone la elección moral y Charubel advierte el fracaso por falta de juicio. Henson y Leinbach agregan la sensualidad máxima que puede nublar la mente o dar imaginación. Para tu web es el grado del 'rey': CEO, artista exitoso, ocultista, filántropo o tacaño. El backend debe usar 'polaridad' para matizar según carta: mismo grado da monje o cuervo. Es ascenso garantizado, pero cómo y para qué define si terminás liberado o envidiado."
+  "potencial": [
+    "Ascenso real desde cero",
+    "Convertir riqueza en liberación para otros",
+    "Liderazgo eficiente y amable",
+    "Puente entre mundo material y espiritual",
+    "Caridad que inspira",
+    "Arte con mensaje de hermandad",
+    "Sabiduría antigua aplicada al presente"
+  ],
+  "autores"
+:
+{
+"Sepharial"
+:
+"Lo bautiza 'AUTOSERVICIO' y da la imagen del hombre coronado en trono con cetro y riquezas. Define la esencia: si nace rico alcanza eminencia por diligencia; si nace pobre, adquiere riqueza y fama. Posición por astucia más que integridad. Característica clave: vigilancia. Es el diagnóstico de ambición taurina en su forma más cruda.",
+"Carelli"
+:
+"Aporta la dualidad clave: puede ascender pero 'vender la piel del oso antes de haberlo cazado'. Ansia de escalar. ¿Será tacaño o generoso? ¿Caballero justo o arribista intrigante? Salvo modestia y autodisolución, todas las vías están abiertas. Depende del libre albedrío. Sin Carelli no se entiende la encrucijada moral del grado.",
+"Charubel"
+:
+"Da el garabato o adorno de pluma. Destinado a muchas decepciones por falta de juicio, incapaz de adaptarse, siempre anticipando lo que nunca podrá realizar. Es la advertencia kármica de que la ambición sin juicio es ilusión. Si el trono no tiene base, se cae.",
+"Henson"
+:
+"Lista los rasgos: tipo bohemio despreocupado, artístico, apasionado, generoso. Grado de sexualidad con imaginación. Ocultismo, atraído por sabiduría antigua. Recto con principios pero carece de compasión y entendimiento de debilidades humanas. Cree haber vivido en Atlántida. Neurastenia, nervios del cuello. Es quien conecta el grado con superioridad espiritual y falta de empatía.",
+"Kozminsky"
+:
+"Lo eleva a 'Liberación': monje en camino pedregoso dando bebida y comida a viajero caído. Ancla irradiada sobre su cabeza. Naturaleza religiosa y caritativa, entendimiento de hermandad humana. Comparte sustento con menos afortunados. Confianza en humanidad nunca tambalea. Heraldo de esperanza. Es el polo luminoso que rescata al grado de la mera codicia.",
+"Leinbach"
+:
+"Lo vuelve sensual y excesivo: sensualidad de Tauro alcanza punto máximo. Se entrega en exceso. Excesos resultan en más de un matrimonio. Necesita pareja o estimulación social. Buenas habilidades mentales, énfasis matemático, pero riesgo de nublar mente por autoindulgencia. Necesita autodisciplina y buen compañero. Es la visión sobre el placer que desborda.",
+"Matthew"
+:
+"Lo sintetiza en 'DESPREOCUPADO' con artista bohemio apasionado y generoso. Grado de sexualidad que aporta imaginación u originalidad. Es el más breve pero marca el motor: pasión sin estructura.",
+"Weber"
+:
+"Muestra la tensión Cáncer: observador, ahorrativo, eficiente, clarividente. Amabilidad y adaptabilidad. A menudo nace en familia adinerada. Gana riqueza o fama pero subestima o no mantiene estatus. Abandona antes de culminar, también en romance. 'Yo contra el mundo'. Expresión personal: canto, baile, imagen pública. Felicidad en servicio pero preocupación mental.",
+"Muir"
+:
+"Aporta dos datos clave: siempre dispuesto a ayudar a un vecino, gran comprensión de necesidades humanas, pero muy susceptible a la adulación. Confirma que la generosidad puede ser comprada. Necesita discernir halago de verdad.",
+"Janduz"
+:
+"Cierra brutal: hombre coronado en trono, cuervo observa con envidia. Carácter astuto, codicioso y tacaño. Si nace rico, incrementa riqueza explotando materias primas. Si nace pobre, obtiene riqueza y fama por astucia. En ambos casos, odiado por codicia y tacañería. Es la advertencia final sobre el deseo material descontrolado."
+},
+  "analisis_final": "Tauro 10° es la prueba del oro. Sepharial y Janduz te dan el trono y el cuervo: podés reinar o ser vigilado por tu propia sombra. Carelli no miente: todas las puertas están abiertas, incluso las bajas. Charubel advierte del garabato: planes sin juicio son decepción. Pero Kozminsky redime el grado: el monje en el camino pedregoso. Misma riqueza, distinta intención. Es el grado donde Tauro decide si la materia es cárcel o templo. Henson y Matthew le dan arte y Atlántida: podés ser bohemio generoso o arribista frío. Weber y Muir muestran la salida: amabilidad, adaptabilidad, ayudar al vecino. Tu corona será de espinas o de luz según elijas servir o servirte."
 },{
-  "id": "tauro_10",
+  "id": "tauro-11",
   "signo": "Tauro",
-  "grado": 10,
-  "titulo": "Autoservicio y el Rey en el Trono",
-  "resumen": "Grado de ambición, astucia y vigilancia para ascender social y materialmente. Promete riqueza y fama tanto para rico como pobre, pero por autoservicio más que integridad. Oscila entre caridad religiosa que libera y codicia tacaña que aisla. Exceso sensual, múltiples matrimonios y decepciones por falta de juicio.",
+  "grado": 11,
+  "titulo": "Reciprocidad",
+  "resumen": "Grado de reciprocidad, paz y sociabilidad taurina. Naturaleza simpática, elegante y cooperativa, con fuerte necesidad de armonía y reconocimiento afectivo. Laboriosidad sin ambición desmedida. Riesgo de autoindulgencia y dependencia de la aprobación ajena.",
   "palabras_clave": [
-    "Autoservicio",
-    "Ambición",
-    "Astucia",
-    "Vigilancia",
-    "Ascenso social",
-    "Riqueza",
-    "Fama",
-    "Codicia",
-    "Tacañería",
-    "Caridad",
-    "Liberación",
-    "Sensualidad",
-    "Exceso",
-    "Decepción",
-    "Sexualidad",
-    "Bohemio",
-    "Ocultismo",
-    "Atlántida",
-    "Neurastenia"
+    "Reciprocidad",
+    "Cooperación",
+    "Armonía",
+    "Agradar",
+    "Sociabilidad",
+    "Paz",
+    "Trabajo constante",
+    "Autoindulgencia",
+    "Reconocimiento",
+    "Pareja ideal"
   ],
   "simbolos_clave": [
-    "Hombre coronado en trono con cetro y símbolos de riqueza",
-    "Garabato o adorno de pluma",
-    "Monje dando bebida y comida a viajero caído, ancla irradiada sobre su cabeza",
-    "Cuervo posado en candelabro observando con envidia al hombre rico"
+    "Flor naranja brillante con dos mariposas",
+    "Tenedor de granja con cuatro púas",
+    "Dos excavadores desenterrando oro",
+    "Dos mujeres tomadas de la mano junto a flor y mariposas"
   ],
   "interpretacion": {
-    "general": "Grado de ascenso por vigilancia y astucia, no por integridad. Si nace rico, alcanza eminencia por diligencia; si nace pobre, adquiere riqueza y fama igual. La característica central es autoservicio y vigilancia. Promete éxito pero con riesgo de vender la piel del oso antes de cazarlo: anticipar lo irrealizable. Da sensualidad máxima en Tauro, con excesos que llevan a más de un matrimonio. Produce artistas bohemios apasionados y generosos, o codiciosos tacaños odiados por su avaricia.",
-    "psicologica": "Ansia de escalar sin límites. El éxito depende de poder ejecutar planes ambiciosos sin caer en errores por entusiasmo. Dualidad moral: tacaño o generoso, caballero justo o arribista intrigante. Modestia y autodisolución le son ajenas. Falta de juicio lleva a decepciones por no adaptarse a condiciones. Incapaz de realizar lo que anticipa. Susceptible a adulación pero ayuda al vecino. Astucia, codicia y tacañería si nace rico; si nace pobre, obtiene riqueza por astucia pero es odiado.",
-    "espiritual": "Kozminsky lo eleva a 'Liberación': naturaleza religiosa y caritativa, hermandad del hombre, compartir sustento con menos afortunados a cambio de bendiciones. Confianza inquebrantable en humanidad, heraldo de esperanza. Henson: atraído por sabiduría antigua, ocultismo, sensación de vidas en Atlántida. Recto con principios pero sin compasión por debilidades humanas. Grado de sexualidad que da imaginación y originalidad."
+    "general": "Sepharial lo define como grado de RECIPROCIDAD: naturaleza dispuesta a agradar, ansiosa de afecto, que encuentra placer en asociarse con afines y sobre la cual 'los cielos sonreirán'. Carelli agrega trabajo, modestia, paciencia y delicadeza femenina. Es el pacificador de Mateo 5:9. Weber y Janduz lo marcan como compañero y cooperador ideal, amado y sociable. Charubel y Kozminsky enfatizan laboriosidad, persistencia y resistencia. Leinbach advierte que la sensualidad taurina alcanza un pico: riesgo de exceso, múltiples matrimonios y autoindulgencia que puede nublar la mente.",
+    "psicologica": "Necesidad profunda de espejo social: se regula a través del agrado y la devolución afectiva. Charubel: contento con su situación, poco ambicioso. Henson: ansioso por agradar y ser complacido, con atisbo de egoísmo masculino. Leinbach: depende de la influencia de su pareja o entorno cercano. Si el entorno es evolutivo, crece. Si es complaciente, cae en indulgencia. Mente aguda con don matemático, pero requiere autodisciplina para no ser dominado por pasiones.",
+    "espiritual": "Carelli lo vincula a la séptima bienaventuranza: 'Bienaventurados los pacificadores'. Es un grado de servicio sin servilismo. La misión es irradiar armonía, esperanza y fe. Weber: 'por encima de bajas ambiciones y traición'. El aprendizaje espiritual pasa por transformar el deseo de agradar en verdadera cooperación kármica. La paz que busca afuera debe construirla adentro."
   },
   "polaridad": {
-    "luz": "Ascenso por diligencia y vigilancia. Riqueza y fama ganadas con trabajo. Caridad religiosa, hermandad, compartir con necesitados. Alta comprensión de unidad humana. Artista bohemio apasionado y generoso. Astrología, ocultismo, sabiduría antigua. Imaginación, originalidad, sexualidad creativa. Gran comprensión de necesidades humanas. Ayuda al vecino.",
-    "sombra": "Autoservicio, astucia sin integridad. Codicia, tacañería, odiado por avaricia. Vender piel del oso antes de cazarlo: anticipar irrealizable. Decepciones por falta de juicio. Sensualidad máxima lleva a excesos y múltiples matrimonios. Indulgencia nublando mente aguda. Arribista intrigante. Neurastenia."
+    "luz": "Pacificador nato. Cooperador ideal. Irradia armonía y esperanza. Trabajador metódico y persistente. Elegancia social. Capacidad de construir desde visiones. Lealtad y devoción en relaciones.",
+    "sombra": "Dependencia de aprobación externa. Autoindulgencia sensual. Múltiples vínculos por vacío afectivo. Egoísmo sutil bajo máscara de amabilidad. Pereza evolutiva por estar 'contento con su situación'. Riesgo de servilismo para ser amado."
   },
-  "dinamica_profunda": "El Rey en el Trono vs. el Monje con el Ancla. El grado da poder material y social pero prueba si se usa con astucia egoísta o caridad liberadora. El cuervo envidioso muestra que la riqueza atrae odio si hay tacañería. El garabato de Charubel marca la falla: anticipar lo que no se puede realizar por falta de juicio. La tensión es entre ascender sirviéndose a sí mismo, o ascender para servir como el monje. La sensualidad taurina aquí llega al pico y debe ser controlada por la mente o nubla todo.",
-  "mensaje_evolutivo": "Podés ascender y tenerlo todo: riqueza, fama, trono. La pregunta es cómo y para qué. La vigilancia te da éxito, pero sin integridad te volvés el rey odiado por codicia. Tu mente aguda se nubla con autoindulgencia: usala para controlar pasiones, no al revés. La caridad libera; la tacañería encadena. Si escalás, que sea para ser heraldo de esperanza, no cuervo envidioso. Tu sexualidad es creativa si no te devora.",
-  "simbolismo": "Trono y cetro = poder material logrado, autoservicio. Corona = eminencia pero por astucia. Riqueza alrededor = tentación de codicia. Garabato = planes sin sustancia, anticipación irreal. Monje con ancla = caridad que estabiliza, liberación por servicio. Cuervo = envidia que genera el codicioso, sombra del éxito. Buey vs. trono = de animal de trabajo a rey: evolución taurina.",
-  "energia": "Tierra fija en su expresión más ambiciosa y sensual. Venus + Marte: placer y conquista. Energía de autoservicio vigilante. Sensualidad al máximo. Neurastenia como desgaste nervioso. Nervios del cuello con médula espinal. Ocultismo y Atlántida como polo alto.",
-  "emocion": "Deseo de escalar sin límites. Ambición o envidia. Pasión bohemia y generosidad artística. Susceptible a adulación. Necesita pareja/estímulo social. Múltiples matrimonios por exceso sensual. Odio ajeno si hay codicia.",
-  "mente": "Buenas habilidades mentales con énfasis matemático. Aguda pero riesgo de nublada por autoindulgencia. Debe usar mente para controlar pasiones. Falta de juicio lleva a decepciones. Imaginación y originalidad por sexualidad. Atraído por sabiduría antigua.",
-  "relaciones": "Más de un matrimonio por excesos sensuales. Necesita pareja o estímulo social cercano. Ayuda al vecino con gran comprensión humana. Susceptible a adulación: cuidado con quien lo rodea. Si es codicioso, genera odio. Alma gemela vs. explotación.",
-  "cuerpo_manifestacion": "Sensualidad máxima que lleva a excesos. Neurastenia. Nervios del cuello. Sexualidad como motor creativo o destructivo. Riesgo de que autoindulgencia nuble salud mental. Ocultismo y Atlántida en memoria celular.",
+  "dinamica_profunda": "Tauro fijo + Venus regente + grado 11 Acuario/Urano: el deseo de estabilidad material y afectiva busca reciprocidad constante. La flor y las mariposas de Sepharial/Janduz muestran belleza que atrae y necesita ser admirada. El tenedor de Charubel y los excavadores de Kozminsky dan la base: trabajo real, no solo encanto. Conflicto central: ¿trabajo por amor al proceso o para ser reconocido? Leinbach lo desnuda: sin autodisciplina, la mente brillante se enturbia por exceso sensorial.",
+  "mensaje_evolutivo": "Aprender a dar sin esperar devolución inmediata. Tu don es crear paz, pero primero debés sostener tu propia paz sin depender del otro. La verdadera reciprocidad nace cuando tu laboriosidad y tu placer no están atados a la mirada ajena. Elegí compañeros que te eleven, no que solo te aplaudan.",
+  "simbolismo": "La flor naranja es Venus/Sol en Tauro: belleza sensorial, vitalidad. Dos mariposas = dualidad, relaciones, levedad del alma sobre la materia. El tenedor de cuatro púas = tierra, trabajo concreto, herramientas. Los excavadores con oro = recompensa de la persistencia: el valor se desentierra, no cae del cielo. Las dos mujeres tomadas de la mano = sororidad, cooperación femenina, vínculo sin conflicto.",
+  "energia": "Venusina terrestre estabilizada. Energía de construcción lenta, agradable, persistente. Ritmo constante, sin prisa. Kozminsky: Resistencia. Sepharial: Cielos que sonríen. Baja ambición, alta sostenibilidad.",
+  "emocion": "Esperanzada, feliz, pacífica. Necesidad de armonía emocional. Ansiedad si no hay reciprocidad. Carelli: confía en el futuro, soporta el presente. Henson: grácil pero con nervios en cuello conectados a médula: somatiza tensión por agradar.",
+  "mente": "Leinbach: buenas habilidades mentales, énfasis matemático, aguda pero en riesgo por autoindulgencia. Muir: persistente y metódico, pero lento para perfeccionar; mejor siguiendo ideas ajenas. Matthew: imaginación, originalidad, sexualidad mental. Necesita educación liberal para no quedar atrapado en lo sensorial.",
+  "relaciones": "Weber y Janduz: compañero y cooperador ideal. Favorable para vida familiar e hijos. Leinbach: necesita pareja o estimulación social; riesgo de múltiples matrimonios por exceso. Carelli: desprovisto de ambiciones, elige sociedad con afines. Sombra: usa el vínculo para validar existencia. Luz: construye paz real en el otro.",
+  "cuerpo_manifestacion": "Weber: uno de los mejores grados para apariencia física y semblante. Henson: enérgicos y gráciles. Nervios en cuello/médula espinal. Tendencia a somatizar por reprimir conflicto para mantener paz. Riesgo: excesos sensoriales afectan garganta, tiroides, cuello - zona Tauro.",
   "roles_afines": [
-    "Rey/CEO",
-    "Empresario astuto",
-    "Terrateniente",
-    "Minero/Materias primas",
+    "Mediador",
+    "Cooperativista",
     "Artista bohemio",
-    "Astrólogo",
-    "Ocultista",
-    "Joyerro",
-    "Monje caritativo",
-    "Filántropo",
-    "Arribista",
-    "Tacaño"
+    "Diplomático",
+    "Terapeuta de pareja",
+    "Agricultor",
+    "Artesano",
+    "Matemático",
+    "Minero/excavador",
+    "Diseñador de experiencias placenteras"
   ],
   "exageraciones": [
-    "Codicia y tacañería extrema",
-    "Vender piel del oso antes de cazarlo",
-    "Sensualidad que lleva a múltiples matrimonios",
-    "Autoindulgencia que nubla mente",
-    "Anticipar irrealizable por falta de juicio",
-    "Astucia sin integridad"
+    "Complacencia crónica",
+    "Autoindulgencia sensorial",
+    "Promiscuidad afectiva",
+    "Servilismo disfrazado de bondad",
+    "Pereza ambiciosa",
+    "Dependencia vincular"
   ],
   "riesgos": [
-    "Decepciones por falta de juicio",
-    "Odio ajeno por codicia",
-    "Pérdidas por anticipar irrealizable",
-    "Neurastenia",
-    "Excesos sensuales destructivos",
-    "Ser arribista intrigante",
-    "Mente nublada por autoindulgencia",
-    "Ser tacaño pese a riqueza"
+    "Perder agudeza mental por excesos",
+    "Elegir parejas que fomenten la sombra",
+    "Quedar atrapado en trabajos menores por falta de ambición",
+    "Enfermedades de cuello/garganta por no expresar disconformidad",
+    "Ser usado por su devoción",
+    "Confundir paz con evitación de conflicto"
   ],
-  "potencial": "Ascenso social y material garantizado si hay diligencia. Riqueza y fama para rico y pobre. Caridad que libera y da esperanza. Sabiduría antigua, astrología, ocultismo. Imaginación y originalidad por sexualidad sublimada. Comprensión profunda de necesidades humanas. Maestro de materias primas.",
+  "potencial": [
+    "Crear armonía real en grupos y parejas",
+    "Persistencia que desentierra valor donde otros no ven",
+    "Belleza con propósito: arte que sana",
+    "Puente entre mundo material y bienestar emocional",
+    "Maestro de reciprocidad consciente",
+    "Construir desde visiones con trabajo metódico"
+  ],
   "autores": {
-    "Sepharial": "Lo nombra 'AUTOSERVICIO' y da la clave: ascenso por vigilancia y astucia, no integridad. Rico o pobre llega a eminencia. Es la base materialista del grado: el trono se gana sirviéndose a sí mismo, no por virtud.",
-    "Carelli": "Plantea la disyuntiva moral: ¿tacaño o generoso, caballero justo o arribista intrigante? El grado abre ambos caminos. Vender piel del oso antes de cazarlo es su advertencia: anticipación irreal. Ansia de escalar define al nativo, el resto de la carta decide cómo.",
-    "Charubel": "Lo reduce a garabato: decepciones por falta de juicio. Incapaz de adaptarse a condiciones, anticipa lo irrealizable. Es la sentencia más dura: sin juicio, el trono es dibujo. Muestra el fracaso potencial del grado.",
-    "Henson": "Agrega el polo bohemio-oculto: artista despreocupado, apasionado, generoso. Sexualidad que da imaginación y originalidad. Atraído por sabiduría antigua y Atlántida. Recto pero sin compasión. Neurastenia como riesgo. Conecta con astrología y joyería.",
-    "Kozminsky": "Lo eleva a 'Liberación' con el monje y el ancla: caridad religiosa, hermandad humana, compartir sustento por bendiciones. Confianza inquebrantable en humanidad. Heraldo de esperanza. Es la redención del grado: el rey que sirve libera.",
-    "Leinbach": "Confirma sensualidad en pico: excesos que dan múltiples matrimonios. Mente aguda nublada por autoindulgencia. Necesita compañero y educación liberal para disciplinarse. Amigo comprensivo ayuda. Es el diagnóstico de por qué el genio se pierde: placer.",
-    "Matthew": "Lo resume en 'DESPREOCUPADO': artista bohemio apasionado y generoso. Sexualidad con imaginación. Es la versión luminosa de Henson, sin la sombra neurasténica.",
-    "Weber": "Aporta el grado Cáncer de Tauro: observador, ahorrativo, eficiente, clarividente. Nace en familia adinerada. Gana riqueza/fama pero no mantiene estatus, abandona antes de culminar. Vocaciones de expresión personal: canto, baile, cuidado. Debe confiar y ser justo.",
-    "Muir": "Sintetiza práctica: siempre ayuda al vecino con gran comprensión humana, pero susceptible a adulación. Es la advertencia social: el rey caritativo debe cuidarse de aduladores.",
-    "Janduz": "Cierra con el rey codicioso y el cuervo envidioso: astuto, codicioso, tacaño. Rico se enriquece más con trabajo en materias primas; pobre obtiene riqueza/fama por astucia. En ambos casos es odiado por codicia. Es la sombra final si no se elige la vía Kozminsky."
+    "Sepharial": "Lo bautiza 'RECIPROCIDAD' y pone la flor naranja con dos mariposas. Define el corazón del grado: dar para recibir afecto. Naturaleza simpática, elegante, que vive del intercambio emocional. Necesita paz, concordia y gente afín como el aire. Es esperanzada porque confía en la devolución. Si no hay reciprocidad, se marchita. Es el diagnóstico de que Tauro 11° existe en el espejo del otro.",
+    "Carelli": "Lo canoniza como pacificador: séptima bienaventuranza. Alma de buena voluntad, trabajadora, modesta, paciente. Delicadeza femenina sin servilismo. Irradia armonía y fe porque no tiene ambición terrenal que defender. Es la pareja y cooperadora ideal por naturaleza, no por estrategia. Sin Carelli, el grado parecería solo complaciente. Él le da la dimensión de servicio espiritual.",
+    "Charubel": "Lo aterriza con el tenedor de granja: laborioso, poco ambicioso, útil, contento con lo que hay. Es la contracara de Sepharial: si la reciprocidad falla, no hay drama. El tenedor ara lo suyo y listo. Advierte que la paz del 11° puede volverse conformismo. Si no hay deseo de más, no hay crecimiento. El trabajo sostiene, pero no eleva solo.",
+    "Henson": "Le pone cuerpo y sombra: minero, escritor ocultista, grácil, ansioso por agradar y ser complacido. Marca el atisbo de egoísmo masculino bajo la amabilidad. Soma clave: nervios del cuello. Traga conflicto para mantener armonía. Es quien revela que la paz de Tauro 11° a veces cuesta el cuerpo. Si agrada mucho, se tensa hasta enfermar.",
+    "Kozminsky": "Lo convierte en 'Resistencia' con los excavadores que sacan oro. Transmuta la reciprocidad en persistencia. No es solo dar y recibir: es cavar juntos hasta encontrar valor. Conoce el valor del trabajo sincero y no para hasta lograrlo. Es el polo que salva al grado de quedarse en simpatía social. Sin Kozminsky, el 11° sería solo flores. Con él, hay mina.",
+    "Leinbach": "Lo desnuda en lo sensual: aquí Tauro toca pico de autoindulgencia. Los excesos explican matrimonios múltiples: busca regularse a través del otro. Rescata la mente: hay don matemático agudo, pero el placer la nubla. Prescribe la cura: autodisciplina + buen compañero + educación liberal. Es el único que ve el riesgo de que la reciprocidad se vuelva dependencia sensorial. Sin freno, el pacificador termina hedonista.",
+    "Matthew": "Lo simplifica a 'RECIPROCIDAD' y le suma bohemia: artista despreocupado, apasionado, generoso. Sexualidad con imaginación. No moraliza, señala el motor: el 11° da porque le gusta el feedback. Es placer de intercambiar. Si está afligido, ese dar es seducción. Si está bien, es arte. Define que la clave es la intención del intercambio.",
+    "Weber": "Lo expande con Sagitario/Leo: voluntarioso, trabajador, reflexivo, sociable, amado. Lo nombra compañero ideal. Pacificador por encima de traiciones. Agrega el dato estético: mejor grado para apariencia física. Favorable para familia e hijos. Creativo que construye desde visiones. Es quien une belleza, paz y construcción. Sin Weber, no se vería que el 11° materializa la armonía, no solo la desea.",
+    "Muir": "Marca la limitación práctica: persistente y metódico pero lento para perfeccionar. Aspira a inventar pero debe seguir ideas ajenas. Confirma que la laboriosidad de Charubel necesita dirección. El 11° trabaja bien en equipo, pero solo se pierde en detalles. La reciprocidad aquí es también mental: necesita co-pensar para producir.",
+    "Janduz": "Lo bendice con las dos mariposas y las dos mujeres de la mano: benevolente, devoto, siempre listo para ayudar. Busca afines y hace alianzas por ideales compartidos. Vida feliz sin contratiempos. Es el cierre luminoso: si elegís bien con quién reciprocar, el grado da paz real. La advertencia implícita: con gente incorrecta, tu devoción se desperdicia. El grado funciona en tribu correcta."
   },
-  "analisis_final": "El Grado 10° es la cumbre material de Tauro: el trono. Sepharial y Janduz muestran el camino del autoservicio astuto que da riqueza pero genera odio. Kozminsky ofrece la redención: el monje caritativo que libera. Entre ambos, Carelli pone la elección moral y Charubel advierte el fracaso por falta de juicio. Henson y Leinbach agregan la sensualidad máxima que puede nublar la mente o dar imaginación. Para tu web es el grado del 'rey': CEO, artista exitoso, ocultista, filántropo o tacaño. El backend debe usar 'polaridad' para matizar según carta: mismo grado da monje o cuervo. Es ascenso garantizado, pero cómo y para qué define si terminás liberado o envidiado."
-},{
+  "analisis_final": "Tauro 11° es el arquetipo del pacificador trabajador. La belleza de Venus se vuelve servicio: la flor naranja con mariposas no es solo estética, es reciprocidad viva. Charubel y Kozminsky le dan estructura: tenedor y pico, trabajo real. Sin esa base, la amabilidad de Sepharial y Carelli deviene complacencia. Leinbach pone el límite: sin autodisciplina, el don se pudre en exceso. Es un grado para construir belleza sustentable en vínculos. Su evolución está en pasar de 'agradar para ser amado' a 'cooperar porque sé mi valor'. Cuando integra trabajo + placer + conciencia vincular, se vuelve el grado del oro desenterrado: la paz que no se compra, se cultiva."
+},
+{
   "id": "tauro-12",
   "signo": "tauro",
   "grado": 12,
